@@ -1,0 +1,333 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    border-bottom: 1px solid#0d0f13;
+    padding-top: 20px;
+}
+
+.header-logo {
+    width: 169.312px;
+    height: 28px;
+}
+
+.header-list ul {
+    list-style: none;
+}
+
+.header-list ul li {
+    text-align: right;
+}
+
+.header-symbol {
+    width: 47.395px;
+    height: 45px;
+}
+
+.background-clip {
+    width: 100%;
+    height: 100%;
+}
+
+.nav-link {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.search-svg {
+    width: 22px;
+    height: 22px;
+}
+
+.company-heading {
+    margin-top: 80px;
+}
+
+.company-heading h1 {
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 75px;
+    color: #041E42;
+}
+
+.company-paragraph {
+    margin-top: 40px;
+}
+
+.company-paragraph p {
+    color: #0d0f13;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.reference-img {
+    margin-top: 80px;
+}
+
+.reference-text h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #041E42;
+}
+
+.reference-paragraph p {
+    color: #0d0f13;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.reference-paragraph {
+    margin-top: 40px;
+}
+
+.reference-text {
+    margin-top: 40px;
+}
+
+.ref-btn {
+    width: 203.58px;
+    height: 63px;
+    border: 1px solid#041E42;
+    border-radius: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0d0f13;
+    margin-top: 40px;
+}
+
+.focus-heading {
+    margin-top: 40px;
+    border-bottom: 1px solid#0d0f13;
+}
+
+.focus-heading h1 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #041E42;
+}
+
+.card {
+    border: none;
+}
+
+.card-body h5 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #041E42;
+}
+
+.card-body p {
+    font-size: 12px;
+    font-weight: 500;
+    color: #0d0f13;
+}
+
+.focus-row {
+    margin-top: 40px;
+}
+
+.focus-icon {
+    color: #adadad;
+    width: 16px;
+    height: 16px;
+}
+
+.card-body {
+    padding: 0px 15px;
+}
+
+.news-direction {
+    margin-top: 40px;
+}
+
+.news-direction h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #041E42;
+}
+
+.news-img {
+    margin-top: 80px;
+}
+
+.gear-row {
+    margin-top: 80px;
+    background-color: #f2f2f2;
+}
+
+.gear-img{
+    padding: 0px;
+}
+
+.gear-heading{
+    padding: 50px 80px;
+}
+
+.gear-heading h3{
+    font-size: 28px;
+    font-weight: 600;
+    color: #041E42;
+}
+
+.gear-heading p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0d0f13;
+}
+
+.g-btn{
+    width: 296.27px;
+    height: 63px;
+    background-color: #041E42;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 0px;
+}
+
+.list-row{
+    margin-top: 80px;
+}
+
+.list-text{
+    padding: 0px;
+    margin-top: 15px;
+}
+
+.list-text h5{
+    font-size: 24px;
+    font-weight: 600;
+    color: #041E42;
+}
+
+.list-text p{
+    font-size: 14px;
+    font-weight: 500;
+    color: #0d0f13;
+}
+
+.list-btn {
+    width: 203.58px;
+    height: 63px;
+    border: 1px solid#041E42;
+    border-radius: 0px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0d0f13;
+}
+
+.visit-row{
+    margin-top: 120px;
+}
+
+.visit-text h5{
+    font-size: 40px;
+    font-weight: 600;
+    color: #041E42;
+}
+
+.visit-text p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #0d0f13;
+    margin-top: 25px;
+}
+
+.v-btn{
+    width: 327.81px;
+    height: 63px;
+    background-color: #041E42;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 0px;
+    margin-top: 25px;
+}
+
+.bg-footer{
+    background-color: #f2f2f2;
+    height: 100%;
+    width: 100%;
+}
+
+.footer{
+    margin-top: 80px;
+}
+
+.item ul{
+    list-style: none;
+}
+
+.item ul li h3{
+    font-size: 16px;
+    font-weight: 600;
+    color: #041E42;
+}
+
+.item ul li{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #0d0f13;
+}
+
+.item-row{
+    margin-top: 120px;
+}
+
+.down-row{
+    margin-bottom: 80px;
+}
+
+.last-footer{
+    background-color: #000000;
+    height: 100%;
+    width: 100%;
+}
+
+.first-line ul{
+    list-style: none;  
+    text-align: center; 
+}
+
+.first-line ul li{
+    color: #fafafa;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 10px;
+    margin-top: 40px;
+}
+
+.second-line ul{
+    list-style: none;  
+    text-align: center; 
+}
+
+.second-line ul li{
+    color: #fafafa;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.last-icon{
+    width: 28px;
+    height: 28px;
+    border: 2px solid#fafafa;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.copyright p{
+    font-size: 10px;
+    color: #fafafa;
+    text-align: center;
+    padding-bottom: 40px;
+}
